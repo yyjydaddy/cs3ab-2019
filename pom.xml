@@ -13,7 +13,7 @@
 	<version>2.0</version>
 	<packaging>war</packaging>
 	<name>boot-thymeleaf</name>
-	<description>egyou question and answer board</description>
+	<description>jyhan question and answer board</description>
 
 	<properties>
 		<java.version>1.8</java.version>
